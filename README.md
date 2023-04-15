@@ -7,7 +7,8 @@
 * Java Development Kit (JDK)
 * Integrated Development Environment (IDE) such as IntelliJ IDEA
 
-![Screenshot (295)](https://user-images.githubusercontent.com/110148973/232160553-89f1db0c-735e-43b2-8860-01fec49f6c95.png)
+![Screenshot (296)](https://user-images.githubusercontent.com/110148973/232229702-7bccb517-b729-4ba8-bab0-082e9e377cf7.png)
+
 
 
 # Working
